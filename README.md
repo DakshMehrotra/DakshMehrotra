@@ -21,7 +21,7 @@
 const daksh: Developer = {
   name        : "Daksh Mehrotra",
   location    : "Dehradun, Uttarakhand 🇮🇳",
-  education   : "B.Tech CSE @ UPES Dehradun — CGPA 8.6",
+  education   : "B.Tech CSE @ UPES Dehradun,
   research    : "Nanoelectronics R&D Intern @ IIT Roorkee",
 
   currentlyBuilding : "Intelligent cloud & ML systems",
