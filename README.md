@@ -163,6 +163,3 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 
 ---
 
-> ⚠️ **One thing to fix before pasting** — in the About Me section, the triple backtick code block has spaces in it (` ` `) — remove those spaces so it reads as ` ``` ` at the start and end of the typescript block. GitHub's markdown renderer needs proper backticks to render the code block correctly.
-
-Paste this into your `DakshMehrotra/DakshMehrotra` repo README and you're done. 🔥
