@@ -25,7 +25,7 @@ const daksh: Developer = {
 
   currentlyBuilding : "Intelligent cloud & ML systems",
   currentlyLearning : ["System Design", "Advanced ML", "Distributed Systems"],
-  lookingFor        : "Internships & Collaborations 🚀",
+  lookingFor        : "Internships & Collaborations ",
 
   achievements: [
     " Runner-Up @ IBM ICE DAY",
