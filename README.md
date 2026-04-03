@@ -100,8 +100,8 @@ const daksh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DakshMehrotra&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshMehrotra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=94a3b8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DakshMehrotra&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DakshMehrotra&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=94a3b8&langs_count=8" />
 
 </div>
 
