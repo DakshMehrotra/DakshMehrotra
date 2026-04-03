@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 ```typescript
 const daksh: Developer = {
   name        : "Daksh Mehrotra",
@@ -28,21 +28,21 @@ const daksh: Developer = {
   lookingFor        : "Internships & Collaborations 🚀",
 
   achievements: [
-    "🥈 Runner-Up @ IBM ICE DAY",
-    "💻 150+ LeetCode Problems (50 & 100 Days Badges)",
-    "🎪 Organized 15+ Tech Events with 2400+ participants",
-    "🏛️ Secretary @ UPES ACM",
-    "🎯 Head of Events @ UPES ACM-W",
-    "🚀 Campus Ambassador @ UnStop",
+    " Runner-Up @ IBM ICE DAY",
+    " 150+ LeetCode Problems (50 & 100 Days Badges)",
+    " Organized 15+ Tech Events with 2400+ participants",
+    " Secretary @ UPES ACM",
+    " Head of Events @ UPES ACM-W",
+    " Campus Ambassador @ UnStop",
   ],
 
-  funFact : "If I'm offline, I'm sleeping 💤"
+  funFact : "If I'm offline, I'm sleeping "
 };
 ```
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -79,18 +79,18 @@ const daksh: Developer = {
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| [⚡ NETRA](https://github.com/DakshMehrotra) | Emergency-aware smart traffic system with YOLOv8 & GNN | `Python` `YOLOv8` `NetworkX` |
-| [🛡️ Rakshaka](https://github.com/DakshMehrotra) | ML-based cybersecurity intrusion detection pipeline | `Python` `ML` `Pandas` |
-| [🚢 ShipStack](https://github.com/DakshMehrotra) | Zero-touch CI/CD pipeline to AWS EC2 | `Docker` `GitHub Actions` `AWS` |
-| [☁️ CloudNova](https://github.com/DakshMehrotra) | Intelligent AWS resource optimizer with cost anomaly detection | `Python` `Boto3` `Lambda` |
-| [👁️ FaceDetect](https://github.com/DakshMehrotra) | Real-time face detection across varying lighting conditions | `Python` `OpenCV` `CV` |
-| [💰 ExpenseFlow](https://github.com/DakshMehrotra) | Java Swing GUI budget tracker with OOP architecture | `Java` `Swing` `OOP` |
+| [ NETRA](https://github.com/DakshMehrotra) | Emergency-aware smart traffic system with YOLOv8 & GNN | `Python` `YOLOv8` `NetworkX` |
+| [ Rakshaka](https://github.com/DakshMehrotra) | ML-based cybersecurity intrusion detection pipeline | `Python` `ML` `Pandas` |
+| [ ShipStack](https://github.com/DakshMehrotra) | Zero-touch CI/CD pipeline to AWS EC2 | `Docker` `GitHub Actions` `AWS` |
+| [ CloudNova](https://github.com/DakshMehrotra) | Intelligent AWS resource optimizer with cost anomaly detection | `Python` `Boto3` `Lambda` |
+| [ FaceDetect](https://github.com/DakshMehrotra) | Real-time face detection across varying lighting conditions | `Python` `OpenCV` `CV` |
+| [ ExpenseFlow](https://github.com/DakshMehrotra) | Java Swing GUI budget tracker with OOP architecture | `Java` `Swing` `OOP` |
 
 </div>
 
@@ -113,7 +113,7 @@ const daksh: Developer = {
 
 ---
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
 
@@ -123,7 +123,7 @@ const daksh: Developer = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -133,7 +133,7 @@ const daksh: Developer = {
 
 ---
 
-## ☁️ AWS Certifications
+##  AWS Certifications
 
 <div align="center">
 
@@ -146,7 +146,7 @@ const daksh: Developer = {
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
