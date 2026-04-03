@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Daksh+Mehrotra+%E2%9A%A1;ML+%7C+DevOps+%7C+Cloud+%7C+Research;Building+things+that+matter.)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daksh%20Mehrotra&fontSize=42&fontColor=00FF88&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%40%20UPES%20Dehradun%20·%20CGPA%208.6&descAlignY=56&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daksh%20Mehrotra&fontSize=42&fontColor=00FF88&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%40%20UPES%20Dehradun&descAlignY=58&descColor=94a3b8" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-00ff88?style=for-the-badge&labelColor=0a0a0f)](https://DakshMehrotra.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrotradaksh/)
@@ -16,12 +16,11 @@
 ---
 
 ## 🧠 About Me
-
 ```typescript
 const daksh: Developer = {
   name        : "Daksh Mehrotra",
   location    : "Dehradun, Uttarakhand 🇮🇳",
-  education   : "B.Tech CSE @ UPES Dehradun,
+  education   : "B.Tech CSE @ UPES Dehradun",
   research    : "Nanoelectronics R&D Intern @ IIT Roorkee",
 
   currentlyBuilding : "Intelligent cloud & ML systems",
@@ -39,7 +38,7 @@ const daksh: Developer = {
 
   funFact : "If I'm offline, I'm sleeping 💤"
 };
-```
+` ` `
 
 ---
 
@@ -86,12 +85,12 @@ const daksh: Developer = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [⚡ NETRA](https://github.com/DakshMehrotra/portfolio) | Emergency-aware smart traffic system with YOLOv8 & GNN | `Python` `YOLOv8` `NetworkX` |
-| [🛡️ Rakshaka](https://github.com/DakshMehrotra/portfolio) | ML-based cybersecurity intrusion detection pipeline | `Python` `ML` `Pandas` |
-| [🚢 ShipStack](https://github.com/DakshMehrotra/portfolio) | Zero-touch CI/CD pipeline to AWS EC2 | `Docker` `GitHub Actions` `AWS` |
-| [☁️ CloudNova](https://github.com/DakshMehrotra/portfolio) | Intelligent AWS resource optimizer with cost anomaly detection | `Python` `Boto3` `Lambda` |
-| [👁️ FaceDetect](https://github.com/DakshMehrotra/portfolio) | Real-time face detection across varying lighting conditions | `Python` `OpenCV` `CV` |
-| [💰 ExpenseFlow](https://github.com/DakshMehrotra/portfolio) | Java Swing GUI budget tracker with OOP architecture | `Java` `Swing` `OOP` |
+| [⚡ NETRA](https://github.com/DakshMehrotra) | Emergency-aware smart traffic system with YOLOv8 & GNN | `Python` `YOLOv8` `NetworkX` |
+| [🛡️ Rakshaka](https://github.com/DakshMehrotra) | ML-based cybersecurity intrusion detection pipeline | `Python` `ML` `Pandas` |
+| [🚢 ShipStack](https://github.com/DakshMehrotra) | Zero-touch CI/CD pipeline to AWS EC2 | `Docker` `GitHub Actions` `AWS` |
+| [☁️ CloudNova](https://github.com/DakshMehrotra) | Intelligent AWS resource optimizer with cost anomaly detection | `Python` `Boto3` `Lambda` |
+| [👁️ FaceDetect](https://github.com/DakshMehrotra) | Real-time face detection across varying lighting conditions | `Python` `OpenCV` `CV` |
+| [💰 ExpenseFlow](https://github.com/DakshMehrotra) | Java Swing GUI budget tracker with OOP architecture | `Java` `Swing` `OOP` |
 
 </div>
 
@@ -160,3 +159,10 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+```
+
+---
+
+> ⚠️ **One thing to fix before pasting** — in the About Me section, the triple backtick code block has spaces in it (` ` `) — remove those spaces so it reads as ` ``` ` at the start and end of the typescript block. GitHub's markdown renderer needs proper backticks to render the code block correctly.
+
+Paste this into your `DakshMehrotra/DakshMehrotra` repo README and you're done. 🔥
