@@ -38,7 +38,7 @@ const daksh: Developer = {
 
   funFact : "If I'm offline, I'm sleeping 💤"
 };
-` ` `
+```
 
 ---
 
@@ -159,7 +159,3 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-```
-
----
-
