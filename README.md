@@ -95,14 +95,8 @@ const daksh: Developer = {
 </div>
 
 ---
+
 ## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DakshMehrotra&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DakshMehrotra&theme=github_dark" />
-
-</div>
 
 <div align="center">
 
@@ -110,8 +104,11 @@ const daksh: Developer = {
 
 </div>
 
+<div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DakshMehrotra&bg_color=0a0a0f&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
+</div>
 
 ---
 
@@ -120,16 +117,6 @@ const daksh: Developer = {
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DakshMehrotra&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DakshMehrotra&bg_color=0a0a0f&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
