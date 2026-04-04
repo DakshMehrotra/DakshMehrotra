@@ -112,16 +112,6 @@ const daksh: Developer = {
 
 ---
 
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DakshMehrotra&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ## AWS Certifications
 
 <div align="center">
