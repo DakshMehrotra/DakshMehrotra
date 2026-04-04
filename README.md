@@ -1,13 +1,13 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Daksh+Mehrotra+%E2%9A%A1;ML+%7C+DevOps+%7C+Cloud+%7C+Research;Building+things+that+matter.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Daksh+Mehrotra;ML+%7C+DevOps+%7C+Cloud+%7C+Research;Building+things+that+matter.)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daksh%20Mehrotra&fontSize=42&fontColor=00FF88&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%40%20UPES%20Dehradun&descAlignY=58&descColor=94a3b8" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-00ff88?style=for-the-badge&labelColor=0a0a0f)](https://DakshMehrotra.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00ff88?style=for-the-badge&labelColor=0a0a0f)](https://DakshMehrotra.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrotradaksh/)
 [![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrotradaksh2005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dakshmehrotra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daksh-24/)
 
 <img src="https://komarev.com/ghpvc/?username=DakshMehrotra&label=Profile+Views&color=00ff88&style=flat-square" alt="profile views" />
 
@@ -15,34 +15,34 @@
 
 ---
 
-##  About Me
+## About Me
 ```typescript
 const daksh: Developer = {
   name        : "Daksh Mehrotra",
-  location    : "Dehradun, Uttarakhand 🇮🇳",
+  location    : "Dehradun, Uttarakhand, India",
   education   : "B.Tech CSE @ UPES Dehradun",
   research    : "Nanoelectronics R&D Intern @ IIT Roorkee",
 
-  currentlyBuilding : "Intelligent cloud & ML systems",
+  currentlyBuilding : "Intelligent cloud and ML systems",
   currentlyLearning : ["System Design", "Advanced ML", "Distributed Systems"],
-  lookingFor        : "Internships & Collaborations ",
+  lookingFor        : "Internships and Collaborations",
 
   achievements: [
-    " Runner-Up @ IBM ICE DAY",
-    " 150+ LeetCode Problems (50 & 100 Days Badges)",
-    " Organized 15+ Tech Events with 2400+ participants",
-    " Secretary @ UPES ACM",
-    " Head of Events @ UPES ACM-W",
-    " Campus Ambassador @ UnStop",
+    "Runner-Up @ IBM ICE DAY",
+    "150+ LeetCode Problems — 50 and 100 Days Badges",
+    "Organized 15+ Tech Events with 2400+ participants",
+    "Secretary @ UPES ACM",
+    "Head of Events @ UPES ACM-W",
+    "Campus Ambassador @ UnStop",
   ],
 
-  funFact : "If I'm offline, I'm sleeping "
+  funFact : "If I am offline, I am sleeping"
 };
 ```
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ const daksh: Developer = {
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**ML & Data**
+**ML and Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -61,7 +61,7 @@ const daksh: Developer = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud and DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,29 +79,29 @@ const daksh: Developer = {
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| [ NETRA](https://github.com/DakshMehrotra) | Emergency-aware smart traffic system with YOLOv8 & GNN | `Python` `YOLOv8` `NetworkX` |
-| [ Rakshaka](https://github.com/DakshMehrotra) | ML-based cybersecurity intrusion detection pipeline | `Python` `ML` `Pandas` |
-| [ ShipStack](https://github.com/DakshMehrotra) | Zero-touch CI/CD pipeline to AWS EC2 | `Docker` `GitHub Actions` `AWS` |
-| [ CloudNova](https://github.com/DakshMehrotra) | Intelligent AWS resource optimizer with cost anomaly detection | `Python` `Boto3` `Lambda` |
-| [ FaceDetect](https://github.com/DakshMehrotra) | Real-time face detection across varying lighting conditions | `Python` `OpenCV` `CV` |
-| [ ExpenseFlow](https://github.com/DakshMehrotra) | Java Swing GUI budget tracker with OOP architecture | `Java` `Swing` `OOP` |
+| [NETRA](https://github.com/DakshMehrotra) | Emergency-aware smart traffic system with YOLOv8 and GNN | `Python` `YOLOv8` `NetworkX` |
+| [Rakshaka](https://github.com/DakshMehrotra) | ML-based cybersecurity intrusion detection pipeline | `Python` `ML` `Pandas` |
+| [ShipStack](https://github.com/DakshMehrotra) | Zero-touch CI/CD pipeline to AWS EC2 | `Docker` `GitHub Actions` `AWS` |
+| [CloudNova](https://github.com/DakshMehrotra) | Intelligent AWS resource optimizer with cost anomaly detection | `Python` `Boto3` `Lambda` |
+| [FaceDetect](https://github.com/DakshMehrotra) | Real-time face detection across varying lighting conditions | `Python` `OpenCV` `CV` |
+| [ExpenseFlow](https://github.com/DakshMehrotra) | Java Swing GUI budget tracker with OOP architecture | `Java` `Swing` `OOP` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DakshMehrotra&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DakshMehrotra&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=94a3b8&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DakshMehrotra&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshMehrotra&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=94a3b8&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -113,7 +113,7 @@ const daksh: Developer = {
 
 ---
 
-##  Trophies
+## Trophies
 
 <div align="center">
 
@@ -123,7 +123,7 @@ const daksh: Developer = {
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -133,7 +133,7 @@ const daksh: Developer = {
 
 ---
 
-##  AWS Certifications
+## AWS Certifications
 
 <div align="center">
 
@@ -146,7 +146,7 @@ const daksh: Developer = {
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 <div align="center">
 
