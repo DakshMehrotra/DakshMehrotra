@@ -95,13 +95,12 @@ const daksh: Developer = {
 </div>
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DakshMehrotra&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&include_all_commits=true&count_private=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshMehrotra&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=94a3b8&langs_count=8&cache_seconds=1800" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DakshMehrotra&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DakshMehrotra&theme=github_dark" />
 
 </div>
 
@@ -110,6 +109,9 @@ const daksh: Developer = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=DakshMehrotra&theme=dark&hide_border=true&background=0a0a0f&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=94a3b8&dates=475569&stroke=1a1a2e)
 
 </div>
+
+
+
 
 ---
 
