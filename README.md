@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Futuristic Header -->
-<img src="banner.svg" alt="Daksh Mehrotra Header" width="100%" />
+<img src="banner.svg?v=3" alt="Daksh Mehrotra Header" width="100%" />
 
 <br />
 
@@ -155,7 +155,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=DakshMehrotra&show_icons=true&theme=radical&hide_border=true&bg_color=030308&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true" height="195px" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=DakshMehrotra&show_icons=true&theme=radical&hide_border=true&bg_color=030308&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true" height="195px" />
       </td>
       <td align="center" valign="top" width="50%">
         <img src="https://streak-stats.demolab.com?user=DakshMehrotra&theme=dark&hide_border=true&background=030308&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=94a3b8&dates=475569&stroke=1a1a2e" height="195px" />
