@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Futuristic Header -->
-<img src="banner.svg?v=3" alt="Daksh Mehrotra Header" width="100%" />
+<img src="banner.svg?v=4" alt="Daksh Mehrotra Header" width="100%" />
 
 <br />
 
 <!-- Social & Badges Row -->
-<a href="https://DakshMehrotra.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00ff88?style=for-the-badge&labelColor=0a0a0f" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mehrotradaksh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mehrotradaksh2005@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/u/Daksh-24/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://DakshMehrotra.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-030308?style=for-the-badge&logo=google-chrome&logoColor=00ff88&labelColor=030308" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mehrotradaksh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-030308?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=030308" alt="LinkedIn" /></a>
+<a href="mailto:mehrotradaksh2005@gmail.com"><img src="https://img.shields.io/badge/Email-030308?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=030308" alt="Email" /></a>
+<a href="https://leetcode.com/u/Daksh-24/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-030308?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=030308" alt="LeetCode" /></a>
 
 <br /><br />
 
@@ -57,37 +57,37 @@
   <tr>
     <td width="50%" valign="top">
       <h4>Machine Learning and Data Science</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-030308?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/PyTorch-030308?style=for-the-badge&logo=pytorch&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/OpenCV-030308?style=for-the-badge&logo=opencv&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Scikit--learn-030308?style=for-the-badge&logo=scikit-learn&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Pandas-030308?style=for-the-badge&logo=pandas&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/NumPy-030308?style=for-the-badge&logo=numpy&logoColor=00ff88&labelColor=030308" />
     </td>
     <td width="50%" valign="top">
       <h4>DevOps and Cloud Infrastructure</h4>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-030308?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Docker-030308?style=for-the-badge&logo=docker&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Kubernetes-030308?style=for-the-badge&logo=kubernetes&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-030308?style=for-the-badge&logo=github-actions&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Ansible-030308?style=for-the-badge&logo=ansible&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Jenkins-030308?style=for-the-badge&logo=jenkins&logoColor=00d4ff&labelColor=030308" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>Languages and Core Systems</h4>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-030308?style=for-the-badge&logo=cplusplus&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/C-030308?style=for-the-badge&logo=c&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Java-030308?style=for-the-badge&logo=openjdk&logoColor=00ff88&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Linux-030308?style=for-the-badge&logo=linux&logoColor=00ff88&labelColor=030308" />
     </td>
     <td width="50%" valign="top">
       <h4>Databases and Tooling</h4>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-030308?style=for-the-badge&logo=mysql&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/React-030308?style=for-the-badge&logo=react&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Vite-030308?style=for-the-badge&logo=vite&logoColor=00d4ff&labelColor=030308" />
+      <img src="https://img.shields.io/badge/Git-030308?style=for-the-badge&logo=git&logoColor=00d4ff&labelColor=030308" />
     </td>
   </tr>
 </table>
@@ -100,49 +100,61 @@
   <tr>
     <td width="50%" valign="top">
       <h3>NETRA</h3>
-      <p><b>Emergency-aware smart traffic system</b> using YOLOv8 and Graph Neural Networks (GNN) to dynamically optimize traffic signals for emergency response vehicles.</p>
-      <code>Python</code> <code>YOLOv8</code> <code>GNN</code> <code>NetworkX</code>
-      <br /><br />
-      <a href="https://github.com/DakshMehrotra" target="_blank"><b>View Project ➔</b></a>
+      <table width="100%">
+        <tr><td><b>Type:</b> Emergency-Aware Smart Traffic System</td></tr>
+        <tr><td><b>Core Stack:</b> <code>Python</code> <code>YOLOv8</code> <code>GNN</code> <code>NetworkX</code></td></tr>
+        <tr><td><b>Operation:</b> Dynamic optimization of traffic signals for emergency response vehicles using Graph Neural Networks and real-time computer vision models.</td></tr>
+        <tr><td><a href="https://github.com/DakshMehrotra" target="_blank"><b>Access System Registry ➔</b></a></td></tr>
+      </table>
     </td>
     <td width="50%" valign="top">
       <h3>Rakshaka</h3>
-      <p><b>ML-driven cybersecurity intrusion detection</b> pipeline capable of analyzing network traffic anomalies and predicting intrusions in real-time.</p>
-      <code>Python</code> <code>Machine Learning</code> <code>Pandas</code> <code>Scikit-Learn</code>
-      <br /><br />
-      <a href="https://github.com/DakshMehrotra" target="_blank"><b>View Project ➔</b></a>
+      <table width="100%">
+        <tr><td><b>Type:</b> Cybersecurity Intrusion Detection System</td></tr>
+        <tr><td><b>Core Stack:</b> <code>Python</code> <code>Machine Learning</code> <code>Pandas</code> <code>Scikit-Learn</code></td></tr>
+        <tr><td><b>Operation:</b> ML-driven network security pipeline running real-time traffic anomaly scanning to predict and flag unauthorized network intrusion attempts.</td></tr>
+        <tr><td><a href="https://github.com/DakshMehrotra" target="_blank"><b>Access System Registry ➔</b></a></td></tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>ShipStack</h3>
-      <p><b>Zero-touch CI/CD pipeline</b> automating application containerization, testing, and deployment to AWS EC2 instances with zero-downtime rolling updates.</p>
-      <code>Docker</code> <code>GitHub Actions</code> <code>AWS</code> <code>Nginx</code>
-      <br /><br />
-      <a href="https://github.com/DakshMehrotra" target="_blank"><b>View Project ➔</b></a>
+      <table width="100%">
+        <tr><td><b>Type:</b> Continuous Integration and Deployment Pipeline</td></tr>
+        <tr><td><b>Core Stack:</b> <code>Docker</code> <code>GitHub Actions</code> <code>AWS</code> <code>Nginx</code></td></tr>
+        <tr><td><b>Operation:</b> Zero-touch automated deployment framework executing application containerization, testing, and rollout to AWS EC2 with zero-downtime.</td></tr>
+        <tr><td><a href="https://github.com/DakshMehrotra" target="_blank"><b>Access System Registry ➔</b></a></td></tr>
+      </table>
     </td>
     <td width="50%" valign="top">
       <h3>CloudNova</h3>
-      <p><b>Intelligent AWS resource optimizer</b> leveraging serverless technologies and cost anomaly detection algorithms to dynamically scale down idle resources.</p>
-      <code>Python</code> <code>Boto3</code> <code>AWS Lambda</code> <code>CloudWatch</code>
-      <br /><br />
-      <a href="https://github.com/DakshMehrotra" target="_blank"><b>View Project ➔</b></a>
+      <table width="100%">
+        <tr><td><b>Type:</b> Serverless AWS Cloud Resource Optimizer</td></tr>
+        <tr><td><b>Core Stack:</b> <code>Python</code> <code>Boto3</code> <code>AWS Lambda</code> <code>CloudWatch</code></td></tr>
+        <tr><td><b>Operation:</b> Serverless orchestrator analyzing AWS metric feeds to detect anomalies and scale down underutilized nodes to maximize cost savings.</td></tr>
+        <tr><td><a href="https://github.com/DakshMehrotra" target="_blank"><b>Access System Registry ➔</b></a></td></tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>FaceDetect</h3>
-      <p><b>Real-time face detection system</b> optimized to maintain high accuracy and robust identification across varied contrast and challenging lighting conditions.</p>
-      <code>Python</code> <code>OpenCV</code> <code>Computer Vision</code>
-      <br /><br />
-      <a href="https://github.com/DakshMehrotra" target="_blank"><b>View Project ➔</b></a>
+      <table width="100%">
+        <tr><td><b>Type:</b> Robust Real-Time Face Detection Pipeline</td></tr>
+        <tr><td><b>Core Stack:</b> <code>Python</code> <code>OpenCV</code> <code>Computer Vision</code></td></tr>
+        <tr><td><b>Operation:</b> High-fidelity frame processing engine optimized for face identification across varying illumination and extreme contrast shifts.</td></tr>
+        <tr><td><a href="https://github.com/DakshMehrotra" target="_blank"><b>Access System Registry ➔</b></a></td></tr>
+      </table>
     </td>
     <td width="50%" valign="top">
       <h3>ExpenseFlow</h3>
-      <p><b>Java Swing budget tracking dashboard</b> designed using clean Object-Oriented Programming (OOP) architectures for structured finance monitoring.</p>
-      <code>Java</code> <code>Swing GUI</code> <code>OOP Design</code>
-      <br /><br />
-      <a href="https://github.com/DakshMehrotra" target="_blank"><b>View Project ➔</b></a>
+      <table width="100%">
+        <tr><td><b>Type:</b> Structured OOP Financial Dashboard</td></tr>
+        <tr><td><b>Core Stack:</b> <code>Java</code> <code>Swing GUI</code> <code>OOP Design</code></td></tr>
+        <tr><td><b>Operation:</b> Desktop application built with strict OOP encapsulation and graphical layout systems to monitor and catalog user financial metrics.</td></tr>
+        <tr><td><a href="https://github.com/DakshMehrotra" target="_blank"><b>Access System Registry ➔</b></a></td></tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -175,10 +187,10 @@
 ## AWS CERTIFICATIONS CREDENTIAL VAULT
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Architecture-2025-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Cloud_Operations-2025-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Practitioner_Essentials-2025-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-2025-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Architecture-030308?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff&labelColor=030308" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Operations-030308?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff&labelColor=030308" />
+  <img src="https://img.shields.io/badge/AWS_Practitioner_Essentials-030308?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff&labelColor=030308" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-030308?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff&labelColor=030308" />
 </div>
 
 ---
@@ -187,7 +199,7 @@
 
 <div align="center">
   <p>Initializing handshake... Connect with my developer interface:</p>
-  <a href="https://DakshMehrotra.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-00ff88?style=for-the-badge&labelColor=0a0a0f" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mehrotradaksh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:mehrotradaksh2005@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Link-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://DakshMehrotra.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-030308?style=for-the-badge&logo=google-chrome&logoColor=00ff88&labelColor=030308" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mehrotradaksh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-030308?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=030308" alt="LinkedIn" /></a>
+  <a href="mailto:mehrotradaksh2005@gmail.com"><img src="https://img.shields.io/badge/Email-030308?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=030308" alt="Email" /></a>
 </div>
