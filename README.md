@@ -164,22 +164,9 @@
 ## SYSTEM ANALYTICS (GITHUB MONITOR)
 
 <div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=DakshMehrotra&show_icons=true&theme=radical&hide_border=true&bg_color=030308&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true" height="195px" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com?user=DakshMehrotra&theme=dark&hide_border=true&background=030308&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=94a3b8&dates=475569&stroke=1a1a2e" height="195px" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="top" width="100%">
-        <br />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshMehrotra&bg_color=030308&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="stats.svg?v=2" alt="Daksh Mehrotra Stats" width="100%" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshMehrotra&bg_color=030308&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
